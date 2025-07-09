@@ -8,7 +8,7 @@ Welcome to my certificates archive! These are the courses and learning paths I'v
 ## 🐍 Python 101: Introduction to Python
 - ✅ Issuer: Satr Platform
 - 📅 Date: February 1, 2025
-- 📄 [View Certificate]([./python-101.pdf](https://github.com/ABRAR22-a/certificate-/blob/main/Python%20101.pdf))
+- 📄 [View Certificate]([./python-101.pdf](https://github.com/ABRAR22-a/certificate-/blob/main/Python%20101.pdf)
 
 ---
 
