@@ -29,14 +29,14 @@ Welcome to my certificates archive! These are the courses and learning paths I'v
 ## 🐧 Linux 101
 - ✅ Issuer: Satr Platform
 - 📅 Date: August 2, 2024
-- 📄 [View Certificate]([./linux-101.pdf](https://github.com/ABRAR22-a/certificate-/blob/main/Linux%20101.pdf))
+- 📄 [View Certificate](https://github.com/ABRAR22-a/certificate-/blob/main/Linux%20101.pdf)
 
 ---
 
 ## 🛡️ Pre-Security Learning Path
 - ✅ Issuer: TryHackMe
 - 📅 Date: 6th July 2025
-- 📄 [View Certificate]([./tryhackme-presecurity.pdf](https://github.com/ABRAR22-a/certificate-/blob/main/THM-UF0TDPKL1K%20(1).pdf))
+- 📄 [View Certificate](https://github.com/ABRAR22-a/certificate-/blob/main/THM-UF0TDPKL1K%20(1).pdf)
 
 ---
 
