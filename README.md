@@ -43,4 +43,4 @@ Welcome to my certificates archive! These are the courses and learning paths I'v
 ## 🌐 Introduction to Cybersecurity
 - ✅ Issuer: Cisco Networking Academy
 - 📅 Date: June 24, 2025
-- 📄 [View Certificate]([./intro-cybersecurity.pdf](https://github.com/ABRAR22-a/certificate-/blob/main/I2CSUpdate20250624-27-oeffge.pdf))
+- 📄 [View Certificate](https://github.com/ABRAR22-a/certificate-/blob/main/I2CSUpdate20250624-27-oeffge.pdf)
