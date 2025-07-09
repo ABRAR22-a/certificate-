@@ -15,7 +15,7 @@ Welcome to my certificates archive! These are the courses and learning paths I'v
 ## 🐍 Python 102: Intermediate Python
 - ✅ Issuer: Satr Platform
 - 📅 Date: February 11, 2025
-- 📄 [View Certificate]([./python-102.pdf](https://github.com/ABRAR22-a/certificate-/blob/main/Python%20102.pdf))
+- 📄 [View Certificate](https://github.com/ABRAR22-a/certificate-/blob/main/Python%20102.pdf)
 
 ---
 
